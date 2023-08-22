@@ -11,5 +11,8 @@ Machine Learning Projects from Regression, Classification &amp; Clustering Analy
 2. Classification Analysis:
    - Medcamp Prediction from Analytics Vidhya
    - Chance of Admit
-   - 
-3. Clustering Analysis on Genes Data
+   - Expense Classification
+   - Term Deposit Classification
+3. Clustering Analysis:
+   - Genes Data Clustering
+   - Power Data Clustering
