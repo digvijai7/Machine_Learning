@@ -7,6 +7,6 @@ Machine Learning Projects from Regression, Classification &amp; Clustering Analy
    - Taxi Fare Prediction from HackerRank
    - Food Demand Forecasting from Analytics Vidhya
    - Insurance Claim
-   - 
+   - Car Resale Value Prediction
 2. Classification Analysis on Medcamp Prediction from Analytics Vidhya
 3. Clustering Analysis on Genes Data
