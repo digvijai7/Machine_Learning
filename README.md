@@ -8,5 +8,8 @@ Machine Learning Projects from Regression, Classification &amp; Clustering Analy
    - Food Demand Forecasting from Analytics Vidhya
    - Insurance Claim
    - Car Resale Value Prediction
-2. Classification Analysis on Medcamp Prediction from Analytics Vidhya
+2. Classification Analysis:
+   - Medcamp Prediction from Analytics Vidhya
+   - Chance of Admit
+   - 
 3. Clustering Analysis on Genes Data
